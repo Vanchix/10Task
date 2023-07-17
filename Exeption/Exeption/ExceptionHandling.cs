@@ -100,7 +100,7 @@ namespace Exception
             }
             else
             {
-                Console.WriteLine("Error:");
+                Console.WriteLine("Error!");
                 return false;
             }
         }
